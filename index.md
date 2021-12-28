@@ -74,6 +74,8 @@ ____________________________________
 
 </div> 
 
+__________________________________________________________________________________________________
+
 ## Virtual currency, items, and keys that create opportunity to engage on every level. With global appeal.  
 
 Engage direct sales and enable global production of authentic merchandise that audiences and creators alike appeal to.  Influence high demand while maintaining low overhead with minimal effort. Broaden horizons that are otherwise inaccessable to the most available markets means currency across labor channel, event venues, entertainment platforms.  Connect socially and make business locally for a community globally.  Massive effect and wide appeal taps into an essential part inside every individual soul.  
@@ -104,6 +106,8 @@ Bitcoin and other major currency to make your means. Listen into the scene with 
 Listen in, and hear a world of difference in myMusic.  Together we can all make it big. 
 
 ## Create your acount. Make your music count. Count up the crypto.
+
+<div data-tf-widget="YAYvSMf0" data-tf-iframe-props="title=Membership-Application" style="width:100%;height:500px;color:black;">Typeform Inline Embedded Form</div><script src="//embed.typeform.com/next/embed.js"></script> 
 
 > ### Get into what your into. 
 > #### Visit [ myMusic.Global ](https://xd.adobe.com/view/9501c7e4-5067-41bb-411e-19c7d1559810-e330/?fullscreen&hints=off)
