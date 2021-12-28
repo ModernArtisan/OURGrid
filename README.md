@@ -66,7 +66,7 @@ ____________________________________
 ##### feat. Modern Edge affiliate, developer, & promotions
 --------------------------------------------------------------------------------------------------
 
-<div style="width:100%;display:flex;align-items:center;flex-flow:row wrap;justify-content:center;"><a onclick="playAd()" id="promo" style="display:inline-block;color:purple;padding-right:5px;float:left;max-width:150px;cursor:pointer;">*Note: I like little details, but I actually edited the explicit content out of the audio, lol.<br><br>PLAY</a>
+<div style="width:100%;display:flex;align-items:center;flex-flow:row wrap;justify-content:center;">
 
 | Animal Analytics - Pro Secret of Industry Titans |
 | :---: |
