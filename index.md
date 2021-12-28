@@ -93,9 +93,10 @@ Creative community commons.  Come, collect, create, and collaborate.
 
 [![Rewards onClick for signing up with Drops](media/influencer-rewards.png)](ldap-tracking.md)
 __________________________________________________________________________________________________
+
 | Example Drop Reward Store |
 | :---: |
-| [Link to concept demo HERE. But dont see game items. Think music. Booths maybe, or studio bites...](https://livedemo.xsolla.com/store-demo/?_xm=3001.210077834306191398#/) |
+| [Link to concept. Dont see game items. Think music. Booths maybe, or studio bites...](https://livedemo.xsolla.com/store-demo/?_xm=3001.210077834306191398#/) |
 __________________________________
 
 Visit ***myMarket.Global*** to see sounds from across the globe from your neighborhood to ours. Make magic in whatever way you want whether you list them or listen to them.  Plug in and be involved so we all know your vision means a world of difference.  In an indifferent world, ***myMusic.Global initiative*** let's you really dive in if that's trying to break in to the industry, just taking it all in being a part of the magic, or a rising star tapping a feeling within that means something making crowds of listeners hear what you say and *feel something when they listen*.  No matter where you go with it. The passion that drives artists who make great songs, a great scene, worth a listen every time.
@@ -106,11 +107,9 @@ Bitcoin and other major currency to make your means. Listen into the scene with 
 Listen in, and hear a world of difference in myMusic.  Together we can all make it big. 
 
 ## Create your acount. Make your music count. Count up the crypto.
-
-<div data-tf-widget="YAYvSMf0" data-tf-iframe-props="title=Membership-Application" style="width:100%;height:500px;color:black;">Typeform Inline Embedded Form</div><script src="//embed.typeform.com/next/embed.js"></script> 
-
+ 
 > ### Get into what your into. 
-> #### Visit [ myMusic.Global ](https://xd.adobe.com/view/9501c7e4-5067-41bb-411e-19c7d1559810-e330/?fullscreen&hints=off)
+> #### Visit [ OURGrid-Productions ](https://modernartisan.github.io/OURGrid/productions)
 
 ## So many people love what you love too!
 
