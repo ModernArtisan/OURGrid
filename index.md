@@ -74,17 +74,9 @@ ____________________________________
 
 </div> 
 
-[![Influencer Drops, A "Mass Effect" Engagement Capability](media/Twitch-drops.png)](ldap-tracking.md)
+## Virtual currency, items, and keys that create opportunity to engage on every level. With global appeal.  
 
-[![Rewards onClick for signing up with Drops](media/influencer-rewards.png)](ldap-tracking.md)
-__________________________________________________________________________________________________
-| Example Drop Reward Store |
-| :---: |
-| [Link to concept demo HERE. But dont see game items. Think music. Booths maybe, or studio bites...](https://livedemo.xsolla.com/store-demo/?_xm=3001.210077834306191398#/) |
-
-__________________________________
-
-Virtual currency, items, and keys that create opportunity to engage at every level with global appeal.  Engage direct sales and enable global production of authentic merchandise that audiences and creators alike appeal to.  Influence high demand while maintaining low overhead with minimal effort. Broaden horizons that are otherwise inaccessable to the most available markets means currency across labor channel, event venues, entertainment platforms.  Connect socially and make business locally for a community globally.  Massive effect and wide appeal taps into an essential part inside every individual soul.  
+Engage direct sales and enable global production of authentic merchandise that audiences and creators alike appeal to.  Influence high demand while maintaining low overhead with minimal effort. Broaden horizons that are otherwise inaccessable to the most available markets means currency across labor channel, event venues, entertainment platforms.  Connect socially and make business locally for a community globally.  Massive effect and wide appeal taps into an essential part inside every individual soul.  
 
 Bringing flavor to a scene that cooks up opportunities that are in short supply done in micro interactions to cause a wave of ferver for business interests even the least will find most attractive.  Capture, create, collect, cultivate, commoditize the currency of committment with conveniece and cap the bottle on the magic that is... 
 
@@ -93,6 +85,16 @@ Bringing flavor to a scene that cooks up opportunities that are in short supply 
 > Without limitations on potential.
 
 Creative community commons.  Come, collect, create, and collaborate. 
+
+
+[![Influencer Drops, A "Mass Effect" Engagement Capability](media/Twitch-drops.png)](ldap-tracking.md)
+
+[![Rewards onClick for signing up with Drops](media/influencer-rewards.png)](ldap-tracking.md)
+__________________________________________________________________________________________________
+| Example Drop Reward Store |
+| :---: |
+| [Link to concept demo HERE. But dont see game items. Think music. Booths maybe, or studio bites...](https://livedemo.xsolla.com/store-demo/?_xm=3001.210077834306191398#/) |
+__________________________________
 
 Visit ***myMarket.Global*** to see sounds from across the globe from your neighborhood to ours. Make magic in whatever way you want whether you list them or listen to them.  Plug in and be involved so we all know your vision means a world of difference.  In an indifferent world, ***myMusic.Global initiative*** let's you really dive in if that's trying to break in to the industry, just taking it all in being a part of the magic, or a rising star tapping a feeling within that means something making crowds of listeners hear what you say and *feel something when they listen*.  No matter where you go with it. The passion that drives artists who make great songs, a great scene, worth a listen every time.
 
