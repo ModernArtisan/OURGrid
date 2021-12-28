@@ -70,15 +70,13 @@ ____________________________________
 
 | Animal Analytics - Pro Secret of Industry Titans |
 | :---: |
-| <video id="ad" width="400" height="400" controls><source src="Animal-analytics.mp4" type="video/mp4"></video> |
+| <video id="ad" width="400" height="400" controls><source src="media/Animal-analytics.mp4" type="video/mp4"></video> |
 
-</div>
+</div> 
 
-<script>function playAd(){var ad = document.getElementById("ad"); ad.play();}</script>
+[![Influencer Drops, A "Mass Effect" Engagement Capability](media/Twitch-drops.png)](ldap-tracking.md)
 
-[![Influencer Drops, A "Mass Effect" Engagement Capability](Twitch-drops.png)](../../rss/dx/ldap-tracking.md)
-
-[![Rewards onClick for signing up with Drops](influencer-rewards.png)](../../rss/dx/ldap-tracking.md)
+[![Rewards onClick for signing up with Drops](media/influencer-rewards.png)](ldap-tracking.md)
 __________________________________________________________________________________________________
 | Example Drop Reward Store |
 | :---: |
@@ -110,7 +108,7 @@ Listen in, and hear a world of difference in myMusic.  Together we can all make 
 
 ## So many people love what you love too!
 
-## [myMusic.Global](
+## [myMusic.Global](https://xd.adobe.com/view/9501c7e4-5067-41bb-411e-19c7d1559810-e330/?fullscreen&hints=off)
 
 Copyright 2022, Wild West Films \
 *privacy policy - terms and conditions*
