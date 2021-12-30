@@ -26,9 +26,9 @@ ______________________________________________
 
 ### These are just notes and I always put more in than necessary so don't read too far into everything I type out.  
 
-*Here's why,*
-1) I find out what to drop doing. 
-2) I skin out the effective methods, be that calanders for those personalities, or drop them quickly for my alpha personalities.  
+*Here's why,* \
+1) I find out what to drop doing. \
+2) I skin out the effective methods, be that calanders for those personalities, or drop them quickly for my alpha personalities.  \
 "I can't always instantly know one mans trash from anothers treasure."  Eventually though.
 
 ♦️*ModernArtisan*
